@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Spring,Cloud computing**
+- 🌱 I’m currently learning **Spring,Cloud computing,Devops**
 
-- 💬 Ask me about **Java,Spring**
+- 💬 Ask me about **Java, Spring, Spring Boot, Linux, Docker**
 
 - 📫 How to reach me **rakibseu0@gmail.com**
 
