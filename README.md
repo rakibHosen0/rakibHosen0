@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rakib Hosen</h1>
+<h1 align="center">Hey Everyone 👋, I'm Rakib Hosen</h1>
 <h3 align="center">An Aspiring Software & DevOps Engineer, focused on mastering backend development, cloud technologies, and automation.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
 
